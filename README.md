@@ -7,7 +7,7 @@
 <br>
 <br>
 
-### **I'm a programming and computer architecture enthusiast!**
+### **I'm a beginner researcher and programming enthusiast!**
 
 
 Hi! My name is Jahania Shah and I'm a ECE rising junior
@@ -17,7 +17,7 @@ Hi! My name is Jahania Shah and I'm a ECE rising junior
 I've always been ambitious about the research work, and spent lot of my time in doing real world problem analysis     🔎      programming is one of the tool, which always helps me in persuing my field and it has been a perfect fit for me.
 
 
-🎓      I'm currently a Electrical and Computer Engineering bachelor's student of class 2024 at Habib. I love programming in all aspects but specially, my deep interest lies in app development. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie and have worked on Unity. I love being creative and aspiring the interesting dreams. 
+🎓      I'm currently an Electrical and Computer Engineering bachelor's student of class 2024 at Habib. I love programming in all aspects but specially, my deep interest lies in app development. I love movies, games, books, rpgs and everything narrative. I've been studying game development as a hobbie and have worked on Unity. I love being creative and aspiring the interesting dreams. 
 
 
 ### **If you want to see some highlights of my production so far, please check:**
