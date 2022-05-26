@@ -41,11 +41,11 @@ I've always been ambitious about the research work, and spent lot of my time in 
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-green?style=flat&logo=c-sharp&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-EDD222?style=flat&logo=Jupytert&logoColor=white)
+![Latex](https://img.shields.io/badge/-Latex-green?style=flat&logo=Latex&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-green?style=flat&logo=VHDL&logoColor=white)
-![RISC-V](https://img.shields.io/badge/-RISC-purple?style=flat&logo=RISC&logoColor=white)
+
 
 #### Application and Data:
 
