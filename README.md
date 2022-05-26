@@ -43,6 +43,7 @@ I've always been ambitious about the research work, and spent lot of my time in 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-EDD222?style=flat&logo=Jupytert&logoColor=white)
 ![Latex](https://img.shields.io/badge/-Latex-green?style=flat&logo=Latex&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-brown?style=flat&logo=Matlab&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-orange?style=flat&logo=verilog&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-green?style=flat&logo=VHDL&logoColor=white)
 
